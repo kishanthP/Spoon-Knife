@@ -99,7 +99,7 @@ class _BubbleState extends State<Bubble> {
               semanticsLabel: 'balloon',
               height: 200,
               width: 200,
-              //color: widget.color ? Colors.red : Colors.blue,
+              color: widget.color ? Colors.red : Colors.blue,
             ),
           ),
         ),
